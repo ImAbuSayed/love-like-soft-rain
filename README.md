@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-like-soft-rain/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Love Like Soft Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-like-soft-rain/) |
+| **Get License** | [Secure Licensing Rights for Love Like Soft Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-like-soft-rain/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the weather changing when you look my way
+> A quiet kind of thunder at the end of the day
+> Every shadow in the room is pulling me to you
+> Falling in the dark is all I wanna do
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
